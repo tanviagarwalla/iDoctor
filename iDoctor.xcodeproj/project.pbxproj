@@ -7,21 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D8BDCC01CCD9426009DBC8B /* 1comp.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCBA1CCD9426009DBC8B /* 1comp.png */; };
+		2D8BDCC11CCD9426009DBC8B /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCBB1CCD9426009DBC8B /* 2.png */; };
+		2D8BDCC21CCD9426009DBC8B /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCBC1CCD9426009DBC8B /* 3.png */; };
+		2D8BDCC31CCD9426009DBC8B /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCBD1CCD9426009DBC8B /* 4.png */; };
+		2D8BDCC41CCD9426009DBC8B /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCBE1CCD9426009DBC8B /* 5.png */; };
+		2D8BDCC51CCD9426009DBC8B /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCBF1CCD9426009DBC8B /* back.png */; };
+		2D8BDCC71CCD9432009DBC8B /* iDoctor.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCC61CCD9432009DBC8B /* iDoctor.png */; };
+		2D8BDCC91CCD9448009DBC8B /* front.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCC81CCD9448009DBC8B /* front.png */; };
+		2D8BDCCC1CCD9824009DBC8B /* body-20clip-20art-leg.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCCA1CCD9824009DBC8B /* body-20clip-20art-leg.png */; };
+		2D8BDCCD1CCD9824009DBC8B /* head.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCCB1CCD9824009DBC8B /* head.png */; };
+		2D8BDCCF1CCD982F009DBC8B /* pi5eddriB.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2D8BDCCE1CCD982F009DBC8B /* pi5eddriB.jpg */; };
 		2DD83B881CCD36EC0032E2E8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD83B871CCD36EC0032E2E8 /* AppDelegate.swift */; };
 		2DD83B8A1CCD36EC0032E2E8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD83B891CCD36EC0032E2E8 /* ViewController.swift */; };
-		2DD83B8D1CCD36EC0032E2E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DD83B8B1CCD36EC0032E2E8 /* Main.storyboard */; };
 		2DD83B8F1CCD36EC0032E2E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DD83B8E1CCD36EC0032E2E8 /* Assets.xcassets */; };
 		2DD83B921CCD36EC0032E2E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DD83B901CCD36EC0032E2E8 /* LaunchScreen.storyboard */; };
+		2DD83B9D1CCD38A70032E2E8 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DD83B9C1CCD38A70032E2E8 /* SWRevealViewController.m */; };
+		2DD83B9F1CCD3F530032E2E8 /* BackTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD83B9E1CCD3F530032E2E8 /* BackTableVC.swift */; };
+		2DD83BA11CCD4C8D0032E2E8 /* Survey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD83BA01CCD4C8D0032E2E8 /* Survey.swift */; };
+		2DD83BA31CCD4D6B0032E2E8 /* Call.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD83BA21CCD4D6B0032E2E8 /* Call.swift */; };
+		2DD83BA51CCD4D8A0032E2E8 /* Medical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD83BA41CCD4D8A0032E2E8 /* Medical.swift */; };
+		2DD83BA71CCD53400032E2E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DD83BA61CCD53400032E2E8 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D8BDCBA1CCD9426009DBC8B /* 1comp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1comp.png; sourceTree = "<group>"; };
+		2D8BDCBB1CCD9426009DBC8B /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		2D8BDCBC1CCD9426009DBC8B /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		2D8BDCBD1CCD9426009DBC8B /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		2D8BDCBE1CCD9426009DBC8B /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		2D8BDCBF1CCD9426009DBC8B /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		2D8BDCC61CCD9432009DBC8B /* iDoctor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iDoctor.png; sourceTree = "<group>"; };
+		2D8BDCC81CCD9448009DBC8B /* front.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = front.png; sourceTree = "<group>"; };
+		2D8BDCCA1CCD9824009DBC8B /* body-20clip-20art-leg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "body-20clip-20art-leg.png"; sourceTree = "<group>"; };
+		2D8BDCCB1CCD9824009DBC8B /* head.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = head.png; sourceTree = "<group>"; };
+		2D8BDCCE1CCD982F009DBC8B /* pi5eddriB.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pi5eddriB.jpg; sourceTree = "<group>"; };
 		2DD83B841CCD36EC0032E2E8 /* iDoctor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDoctor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DD83B871CCD36EC0032E2E8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2DD83B891CCD36EC0032E2E8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		2DD83B8C1CCD36EC0032E2E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2DD83B8E1CCD36EC0032E2E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DD83B911CCD36EC0032E2E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2DD83B931CCD36EC0032E2E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DD83B9A1CCD38A70032E2E8 /* iDoctor-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iDoctor-Bridging-Header.h"; sourceTree = "<group>"; };
+		2DD83B9B1CCD38A70032E2E8 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		2DD83B9C1CCD38A70032E2E8 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		2DD83B9E1CCD3F530032E2E8 /* BackTableVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackTableVC.swift; sourceTree = "<group>"; };
+		2DD83BA01CCD4C8D0032E2E8 /* Survey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Survey.swift; sourceTree = "<group>"; };
+		2DD83BA21CCD4D6B0032E2E8 /* Call.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Call.swift; sourceTree = "<group>"; };
+		2DD83BA41CCD4D8A0032E2E8 /* Medical.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Medical.swift; sourceTree = "<group>"; };
+		2DD83BA61CCD53400032E2E8 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +88,30 @@
 		2DD83B861CCD36EC0032E2E8 /* iDoctor */ = {
 			isa = PBXGroup;
 			children = (
+				2D8BDCCA1CCD9824009DBC8B /* body-20clip-20art-leg.png */,
+				2D8BDCCB1CCD9824009DBC8B /* head.png */,
+				2D8BDCCE1CCD982F009DBC8B /* pi5eddriB.jpg */,
+				2D8BDCC61CCD9432009DBC8B /* iDoctor.png */,
+				2D8BDCC81CCD9448009DBC8B /* front.png */,
+				2D8BDCBA1CCD9426009DBC8B /* 1comp.png */,
+				2D8BDCBB1CCD9426009DBC8B /* 2.png */,
+				2D8BDCBC1CCD9426009DBC8B /* 3.png */,
+				2D8BDCBD1CCD9426009DBC8B /* 4.png */,
+				2D8BDCBE1CCD9426009DBC8B /* 5.png */,
+				2D8BDCBF1CCD9426009DBC8B /* back.png */,
 				2DD83B871CCD36EC0032E2E8 /* AppDelegate.swift */,
 				2DD83B891CCD36EC0032E2E8 /* ViewController.swift */,
-				2DD83B8B1CCD36EC0032E2E8 /* Main.storyboard */,
+				2DD83BA61CCD53400032E2E8 /* Main.storyboard */,
 				2DD83B8E1CCD36EC0032E2E8 /* Assets.xcassets */,
 				2DD83B901CCD36EC0032E2E8 /* LaunchScreen.storyboard */,
 				2DD83B931CCD36EC0032E2E8 /* Info.plist */,
+				2DD83B9B1CCD38A70032E2E8 /* SWRevealViewController.h */,
+				2DD83B9C1CCD38A70032E2E8 /* SWRevealViewController.m */,
+				2DD83B9A1CCD38A70032E2E8 /* iDoctor-Bridging-Header.h */,
+				2DD83B9E1CCD3F530032E2E8 /* BackTableVC.swift */,
+				2DD83BA01CCD4C8D0032E2E8 /* Survey.swift */,
+				2DD83BA21CCD4D6B0032E2E8 /* Call.swift */,
+				2DD83BA41CCD4D8A0032E2E8 /* Medical.swift */,
 			);
 			path = iDoctor;
 			sourceTree = "<group>";
@@ -123,9 +175,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D8BDCC01CCD9426009DBC8B /* 1comp.png in Resources */,
+				2D8BDCC31CCD9426009DBC8B /* 4.png in Resources */,
+				2D8BDCC51CCD9426009DBC8B /* back.png in Resources */,
+				2DD83BA71CCD53400032E2E8 /* Main.storyboard in Resources */,
+				2D8BDCCF1CCD982F009DBC8B /* pi5eddriB.jpg in Resources */,
+				2D8BDCC91CCD9448009DBC8B /* front.png in Resources */,
+				2D8BDCC71CCD9432009DBC8B /* iDoctor.png in Resources */,
+				2D8BDCC11CCD9426009DBC8B /* 2.png in Resources */,
+				2D8BDCC21CCD9426009DBC8B /* 3.png in Resources */,
+				2D8BDCCD1CCD9824009DBC8B /* head.png in Resources */,
+				2D8BDCCC1CCD9824009DBC8B /* body-20clip-20art-leg.png in Resources */,
+				2D8BDCC41CCD9426009DBC8B /* 5.png in Resources */,
 				2DD83B921CCD36EC0032E2E8 /* LaunchScreen.storyboard in Resources */,
 				2DD83B8F1CCD36EC0032E2E8 /* Assets.xcassets in Resources */,
-				2DD83B8D1CCD36EC0032E2E8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,21 +200,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DD83B8A1CCD36EC0032E2E8 /* ViewController.swift in Sources */,
+				2DD83BA31CCD4D6B0032E2E8 /* Call.swift in Sources */,
 				2DD83B881CCD36EC0032E2E8 /* AppDelegate.swift in Sources */,
+				2DD83BA51CCD4D8A0032E2E8 /* Medical.swift in Sources */,
+				2DD83BA11CCD4C8D0032E2E8 /* Survey.swift in Sources */,
+				2DD83B9F1CCD3F530032E2E8 /* BackTableVC.swift in Sources */,
+				2DD83B9D1CCD38A70032E2E8 /* SWRevealViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		2DD83B8B1CCD36EC0032E2E8 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				2DD83B8C1CCD36EC0032E2E8 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		2DD83B901CCD36EC0032E2E8 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -248,10 +308,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = iDoctor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tanvi.iDoctor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "iDoctor/iDoctor-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -259,10 +323,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = iDoctor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tanvi.iDoctor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "iDoctor/iDoctor-Bridging-Header.h";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -285,6 +352,7 @@
 				2DD83B981CCD36EC0032E2E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
